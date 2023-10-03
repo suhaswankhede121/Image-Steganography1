@@ -7,11 +7,6 @@ import Coding.SendEmail;
  import java.awt.*;
  import java.awt.event.*;
  import javax.imageio.*;
-
-/**
- *
- * @author Hadi
- */ 
  public class Encryption extends JFrame implements ActionListener
  {
  JButton open = new JButton("Open"), embed = new JButton("Embed"), send = new JButton("Send"),
